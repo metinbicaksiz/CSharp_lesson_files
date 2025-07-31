@@ -25,11 +25,11 @@
     Value types are stored in the stack, which is faster for access, but they have a limited size and scope. 
 */
 
-Console.Write("Sayi 1: ");
-int sayi1 = Convert.ToInt32(Console.ReadLine());
-Console.Write("Sayi 2: ");
-int sayi2 = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Sayi 1: ");
+// int sayi1 = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Sayi 2: ");
+// int sayi2 = Convert.ToInt32(Console.ReadLine());
 
-int toplam =  sayi1 + sayi2;
+// int toplam =  sayi1 + sayi2;
 
-Console.WriteLine("Toplam: " + toplam);
+// Console.WriteLine("Toplam: " + toplam);
