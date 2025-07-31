@@ -1,0 +1,15 @@
+/Users/metinbicaksiz/Desktop/Code/C#/2_variables/obj/Debug/net7.0/2_variables.csproj.AssemblyReference.cache
+/Users/metinbicaksiz/Desktop/Code/C#/2_variables/obj/Debug/net7.0/2_variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/metinbicaksiz/Desktop/Code/C#/2_variables/obj/Debug/net7.0/2_variables.AssemblyInfoInputs.cache
+/Users/metinbicaksiz/Desktop/Code/C#/2_variables/obj/Debug/net7.0/2_variables.AssemblyInfo.cs
+/Users/metinbicaksiz/Desktop/Code/C#/2_variables/obj/Debug/net7.0/2_variables.csproj.CoreCompileInputs.cache
+/Users/metinbicaksiz/Desktop/Code/C#/2_variables/bin/Debug/net7.0/2_variables
+/Users/metinbicaksiz/Desktop/Code/C#/2_variables/bin/Debug/net7.0/2_variables.deps.json
+/Users/metinbicaksiz/Desktop/Code/C#/2_variables/bin/Debug/net7.0/2_variables.runtimeconfig.json
+/Users/metinbicaksiz/Desktop/Code/C#/2_variables/bin/Debug/net7.0/2_variables.dll
+/Users/metinbicaksiz/Desktop/Code/C#/2_variables/bin/Debug/net7.0/2_variables.pdb
+/Users/metinbicaksiz/Desktop/Code/C#/2_variables/obj/Debug/net7.0/2_variables.dll
+/Users/metinbicaksiz/Desktop/Code/C#/2_variables/obj/Debug/net7.0/refint/2_variables.dll
+/Users/metinbicaksiz/Desktop/Code/C#/2_variables/obj/Debug/net7.0/2_variables.pdb
+/Users/metinbicaksiz/Desktop/Code/C#/2_variables/obj/Debug/net7.0/2_variables.genruntimeconfig.cache
+/Users/metinbicaksiz/Desktop/Code/C#/2_variables/obj/Debug/net7.0/ref/2_variables.dll

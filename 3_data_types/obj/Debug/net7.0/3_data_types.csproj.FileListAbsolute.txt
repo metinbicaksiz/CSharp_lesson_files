@@ -1,0 +1,15 @@
+/Users/metinbicaksiz/Desktop/Code/C#/3_data_types/bin/Debug/net7.0/3_data_types
+/Users/metinbicaksiz/Desktop/Code/C#/3_data_types/bin/Debug/net7.0/3_data_types.deps.json
+/Users/metinbicaksiz/Desktop/Code/C#/3_data_types/bin/Debug/net7.0/3_data_types.runtimeconfig.json
+/Users/metinbicaksiz/Desktop/Code/C#/3_data_types/bin/Debug/net7.0/3_data_types.dll
+/Users/metinbicaksiz/Desktop/Code/C#/3_data_types/bin/Debug/net7.0/3_data_types.pdb
+/Users/metinbicaksiz/Desktop/Code/C#/3_data_types/obj/Debug/net7.0/3_data_types.csproj.AssemblyReference.cache
+/Users/metinbicaksiz/Desktop/Code/C#/3_data_types/obj/Debug/net7.0/3_data_types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/metinbicaksiz/Desktop/Code/C#/3_data_types/obj/Debug/net7.0/3_data_types.AssemblyInfoInputs.cache
+/Users/metinbicaksiz/Desktop/Code/C#/3_data_types/obj/Debug/net7.0/3_data_types.AssemblyInfo.cs
+/Users/metinbicaksiz/Desktop/Code/C#/3_data_types/obj/Debug/net7.0/3_data_types.csproj.CoreCompileInputs.cache
+/Users/metinbicaksiz/Desktop/Code/C#/3_data_types/obj/Debug/net7.0/3_data_types.dll
+/Users/metinbicaksiz/Desktop/Code/C#/3_data_types/obj/Debug/net7.0/refint/3_data_types.dll
+/Users/metinbicaksiz/Desktop/Code/C#/3_data_types/obj/Debug/net7.0/3_data_types.pdb
+/Users/metinbicaksiz/Desktop/Code/C#/3_data_types/obj/Debug/net7.0/3_data_types.genruntimeconfig.cache
+/Users/metinbicaksiz/Desktop/Code/C#/3_data_types/obj/Debug/net7.0/ref/3_data_types.dll
